@@ -25,7 +25,7 @@
             }
         },
         components: {
-            EventCreateModal,
+            'event-create-modal': EventCreateModal,
             'day-event-modal': dayEventModal,
             'event-modal': eventModal,
             'navbar-custom': navbar,
